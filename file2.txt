@@ -1,0 +1,6 @@
+This is file 2 for secodn lecture.
+New line in file2.
+New line gas been added.
+Line 3 has been added
+Line4 has been added
+Line 6 added .
